@@ -1,0 +1,7 @@
+CREATE TABLE Contacts
+(
+    ContactID INT IDENTITY(1,1) PRIMARY KEY,
+    FullName NVARCHAR(255) NOT NULL,
+    PhoneNumber NVARCHAR(20) NOT NULL,
+    BirthDate DATE NOT NULL
+);

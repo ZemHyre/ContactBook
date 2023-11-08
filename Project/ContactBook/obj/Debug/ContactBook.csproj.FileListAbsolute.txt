@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\Asus\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\Asus\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.MainForm.resources
+C:\Users\Asus\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.AddContactForm.resources
